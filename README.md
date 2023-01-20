@@ -3,3 +3,9 @@
 ### Rode o comando Composer install
 
 É isso
+
+###Integrantes
+- Danton
+- Pedro
+- Rafael
+- Rochele
